@@ -8,7 +8,7 @@
 
 - 将Microsoft Edge固定在任务栏
 
-  ![2](.\MdPhoto\2.png)
+  ![2](./MdPhoto/2.png)
 
 
 
@@ -21,7 +21,7 @@
 2、pipx install poetry
 ```
 
-3、![3](.\MdPhoto\3.png)
+3、![3](./MdPhoto/3.png)
 
 ```
 4、poetry install
