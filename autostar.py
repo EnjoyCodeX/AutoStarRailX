@@ -1,4 +1,5 @@
 # https://blog.csdn.net/m0_53043024/article/details/133667872
+# https://blog.csdn.net/wblylh/article/details/114533120
 # https://zhuanlan.zhihu.com/p/266123806
 # Creating virtualenv autostar-mkdqbjJF-py3.10 in C:\Users\tracy\AppData\Local\pypoetry\Cache\virtualenvs
 import pyautogui
@@ -34,7 +35,8 @@ logger.addHandler(fh)
 logger.addHandler(ch)
 
 type = config.get('Loading','AccessType')
-
+Accessconfidence = config.get('Loading','AccessConfidence')
+GameConfidence = config.get('Loading','GameConfidence')
 """
 工作流程:
 打开edge浏览器 --> 搜索云崩坏星穹铁道 --> 进入官网 --> 打开游戏 --> 完成每日任务 --> 获得每日奖励
@@ -42,6 +44,7 @@ type = config.get('Loading','AccessType')
 # 打开edge浏览器 --> 搜索云崩坏星穹铁道 --> 进入官网 --> 打开游戏
 pyautogui.useImageNotFoundException()
 
+# 定位坐标
 def Locate(word,confi,gray=False,way=True):
     try:
         """
@@ -76,32 +79,51 @@ def click(Location,cls,but,ti=2):
     pyautogui.click(Location,clicks=cls,button=but)
     time.sleep(ti)
 
-Location = Locate('edge',0.8)
-click(Location,1,'left')
+# 登录操作
+def Loading():
+    Location = Locate('Load/edge',Accessconfidence)
+    click(Location,1,'left')
 
-Location = Locate('search',0.9)
-pyautogui.moveTo(Location)
-# 窗口最大化
-pyautogui.hotkey('alt','space','x')
+    # 窗口最大化
+    pyautogui.hotkey('alt','space')
+    Location = Locate('Load/sizeup',Accessconfidence)
+    click(Location,1,'left',2)
+    # 以免已经最大化后出现问题
+    click((1000,20),1,'left',1)
 
-click(Location,1,'left',5)
-Location = Locate('GOIN',0.7)
-click(Location,1,'left')
+    Location = Locate('Load/search',Accessconfidence)
+    click(Location,1,'left',5)
+    Location = Locate('Load/GOIN',Accessconfidence)
+    click(Location,1,'left')
 
-# 进入游戏
-match type:
-    case '1':
-        Location = get_position(2)
+    # 此处应该考虑排队时间 和 网速问题
+    begtime = time.time()
+    if Location != None:
+        Location = Locate('Load/wifi',Accessconfidence,way=False)
+        logger.warning('The speed of wifi is poor')
         click(Location,1,'left',2)
-    case '2':
-        logger.info('Welcome to use autoplay again')
-    case _:
-        logger.error('please check your access way, 1 - first time access cloud game  2 -not')
-        exit()
+        accesstime = time.time()
+        if accesstime - begtime >= 60:
+            logger.error('Can not get into the game, please change your wifi')
+            exit()
 
-Location = get_position(3)
-click(Location,1,'left')
-
+    Location = 1
+    while Location!=None:
+        Location = Locate('Load/wait',Accessconfidence,way=False)
+        logger.warning('please wait a while')
+        time.sleep(20)
+    # 进入游戏
+    match type:
+        case '1':
+            Location = get_position('Load/2')
+            click(Location,1,'left',2)
+        case '2':
+            logger.info('Welcome to use autoplay again')
+        case _:
+            logger.error('please check your access way, 1 - first time access cloud game  2 -not')
+            exit()
+    Location = get_position('Load/3')
+    click(Location,1,'left')
 """
 配置文件 config
 1、模拟宇宙   
@@ -113,6 +135,50 @@ click(Location,1,'left')
 7、每日任务
 8、队伍配置
 9、纪行
+10、商城兑换
+11、邮箱
 """
+# 进入指南
+def IntoGuide():
+    pyautogui.press('esc')
+    time.sleep(2)
+    Location = Locate('Menu.png',GameConfidence,gray=True)
+    click(Location,1,'left',2)
 
-# 测试完成自动化战斗
+# 领取月卡奖励
+def getReward():
+    ScreenWidth,ScreenHeight = pyautogui.size()
+    pyautogui.click(ScreenWidth/2, ScreenHeight/2,clicks=3,interval=1,button='left')
+    time.sleep(2)
+# 模拟宇宙
+
+# 拟造花萼(金)
+
+# 拟造花萼(赤)
+
+# 凝滞虚影
+
+# 侵蚀隧洞
+
+# 历战余响
+
+
+# 战斗清体力
+def fight():
+    pass
+
+# 每日任务
+def dailyWork():
+    pass
+# 队伍配置
+
+# 纪行
+ 
+# 商城兑换
+
+if __name__ == '__main__' :
+    Loading()
+    getReward()
+    # 先进行每日任务，待完成后再清体力
+    dailyWork()
+    fight()

@@ -8,3 +8,160 @@
 2024-02-14 17:20:51,740 - autostar.py [line:54] - INFO : image found:Point(x=1457, y=1412)
 2024-02-14 17:20:54,749 - autostar.py [line:54] - INFO : image found:Point(x=184, y=88)
 2024-02-14 17:21:01,210 - autostar.py [line:58] - ERROR : image not found,please check
+2024-02-14 18:29:28,784 - autostar.py [line:54] - INFO : image found:Point(x=1435, y=1412)
+2024-02-14 18:29:31,881 - autostar.py [line:54] - INFO : image found:Point(x=478, y=266)
+2024-02-14 18:29:38,308 - autostar.py [line:58] - ERROR : image not found,please check
+2024-02-14 18:31:08,254 - autostar.py [line:54] - INFO : image found:Point(x=1435, y=1412)
+2024-02-14 18:31:11,365 - autostar.py [line:54] - INFO : image found:Point(x=371, y=295)
+2024-02-14 18:32:01,741 - autostar.py [line:54] - INFO : image found:Point(x=1435, y=1412)
+2024-02-14 18:32:04,753 - autostar.py [line:54] - INFO : image found:Point(x=184, y=88)
+2024-02-14 18:32:13,566 - autostar.py [line:54] - INFO : image found:Point(x=2062, y=930)
+2024-02-14 18:32:15,696 - autostar.py [line:97] - INFO : Welcome to use autoplay again
+2024-02-14 18:32:38,222 - autostar.py [line:54] - INFO : image found:Point(x=1263, y=1306)
+2024-02-14 18:44:58,290 - autostar.py [line:56] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 18:45:01,286 - autostar.py [line:56] - INFO : image found:Point(x=184, y=88)
+2024-02-14 18:45:10,098 - autostar.py [line:56] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 18:45:12,212 - autostar.py [line:100] - INFO : Welcome to use autoplay again
+2024-02-14 18:46:12,704 - autostar.py [line:73] - ERROR : Can not access
+2024-02-14 18:46:22,857 - autostar.py [line:56] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 18:46:25,287 - autostar.py [line:60] - ERROR : image not found,please check
+2024-02-14 18:46:29,132 - autostar.py [line:56] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 18:46:31,568 - autostar.py [line:56] - INFO : image found:Point(x=184, y=88)
+2024-02-14 18:46:39,670 - autostar.py [line:60] - ERROR : image not found,please check
+2024-02-14 18:49:05,227 - autostar.py [line:56] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 18:49:08,139 - autostar.py [line:56] - INFO : image found:Point(x=82, y=316)
+2024-02-14 18:49:11,124 - autostar.py [line:56] - INFO : image found:Point(x=184, y=88)
+2024-02-14 18:49:17,230 - autostar.py [line:60] - ERROR : image not found,please check
+2024-02-14 19:37:44,063 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 19:37:46,764 - autostar.py [line:57] - INFO : image found:Point(x=82, y=151)
+2024-02-14 19:37:49,594 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:54:17,649 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:54:20,480 - autostar.py [line:57] - INFO : image found:Point(x=90, y=144)
+2024-02-14 19:54:23,492 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 19:54:30,063 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 19:54:32,174 - autostar.py [line:102] - INFO : Welcome to use autoplay again
+2024-02-14 19:54:54,297 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:54:57,182 - autostar.py [line:57] - INFO : image found:Point(x=1362, y=104)
+2024-02-14 19:54:59,921 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:55:03,574 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:55:06,687 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:55:09,684 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:56:35,784 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:56:38,598 - autostar.py [line:57] - INFO : image found:Point(x=90, y=144)
+2024-02-14 19:56:43,048 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:56:46,150 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:57:08,675 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:57:11,803 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:57:15,830 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:57:35,058 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:57:37,872 - autostar.py [line:57] - INFO : image found:Point(x=90, y=144)
+2024-02-14 19:57:41,983 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 19:57:48,292 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:57:55,448 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:57:58,565 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:58:02,798 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:58:13,457 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:58:16,586 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:58:20,821 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:58:29,390 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:58:32,509 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:58:36,742 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 19:58:53,067 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 19:58:56,182 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 19:59:00,437 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 19:59:06,797 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:05:28,277 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:05:31,067 - autostar.py [line:57] - INFO : image found:Point(x=90, y=144)
+2024-02-14 20:05:35,184 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:05:41,762 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:05:43,880 - autostar.py [line:104] - INFO : Welcome to use autoplay again
+2024-02-14 20:05:56,723 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:05:59,334 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:06:03,168 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:06:06,041 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:06:09,103 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:06:12,935 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:06:14,063 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:06:17,162 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:06:21,237 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:06:33,758 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:06:36,843 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:06:40,935 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:06:47,486 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:06:49,612 - autostar.py [line:104] - INFO : Welcome to use autoplay again
+2024-02-14 20:10:37,036 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:10:40,070 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:11:26,381 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:11:29,487 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:11:33,751 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:11:40,274 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:11:44,118 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:11:44,119 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:11:54,120 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:12:04,133 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:12:37,194 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:12:40,310 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:12:47,204 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:12:50,334 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:12:54,481 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:13:01,048 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:13:04,764 - autostar.py [line:109] - INFO : Welcome to use autoplay again
+2024-02-14 20:14:24,722 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:14:27,858 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:14:32,057 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:14:38,574 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:14:42,188 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:14:42,189 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:15:02,202 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:15:22,215 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:15:42,224 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:16:02,238 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:16:22,244 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:16:42,259 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:17:02,269 - autostar.py [line:101] - WARNING : please wait a while
+2024-02-14 20:18:34,781 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:18:37,877 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:18:41,973 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:18:48,550 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:18:52,232 - autostar.py [line:109] - INFO : Welcome to use autoplay again
+2024-02-14 20:24:27,254 - autostar.py [line:57] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 20:24:34,933 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:24:38,025 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:24:42,133 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:24:48,190 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:24:52,352 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:24:52,352 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:25:12,356 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:25:32,357 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:25:52,367 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:26:12,379 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:26:32,392 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:26:52,401 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:27:12,413 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:27:32,416 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:27:52,425 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:28:12,432 - autostar.py [line:112] - WARNING : please wait a while
+2024-02-14 20:30:54,491 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:30:57,634 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:31:01,927 - autostar.py [line:57] - INFO : image found:Point(x=184, y=88)
+2024-02-14 20:31:08,488 - autostar.py [line:57] - INFO : image found:Point(x=2067, y=932)
+2024-02-14 20:31:12,144 - autostar.py [line:103] - WARNING : The speed of wifi is poor
+2024-02-14 20:31:15,771 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:31:15,772 - autostar.py [line:113] - WARNING : please wait a while
+2024-02-14 20:31:37,283 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:31:37,284 - autostar.py [line:113] - WARNING : please wait a while
+2024-02-14 20:31:58,809 - autostar.py [line:57] - INFO : image found:Point(x=1266, y=567)
+2024-02-14 20:31:58,809 - autostar.py [line:113] - WARNING : please wait a while
+2024-02-14 20:32:19,629 - autostar.py [line:113] - WARNING : please wait a while
+2024-02-14 20:32:39,629 - autostar.py [line:121] - INFO : Welcome to use autoplay again
+2024-02-14 20:32:41,063 - autostar.py [line:57] - INFO : image found:Point(x=1263, y=1306)
+2024-02-14 20:38:18,990 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:38:21,756 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:39:25,149 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:39:27,889 - autostar.py [line:57] - INFO : image found:Point(x=1362, y=104)
+2024-02-14 20:39:31,828 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:39:41,143 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:39:44,104 - autostar.py [line:57] - INFO : image found:Point(x=82, y=135)
+2024-02-14 20:39:48,057 - autostar.py [line:61] - ERROR : image not found,please check
+2024-02-14 20:39:58,905 - autostar.py [line:57] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 20:40:01,656 - autostar.py [line:61] - ERROR : image not found,please check
