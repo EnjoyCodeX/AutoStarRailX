@@ -1,0 +1,10 @@
+2024-02-14 17:19:40,214 - autostar.py [line:53] - INFO : image found:Point(x=1479, y=1412)
+2024-02-14 17:19:42,706 - autostar.py [line:57] - ERROR : image not found,please check
+2024-02-14 17:20:10,802 - autostar.py [line:53] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 17:20:13,439 - autostar.py [line:57] - ERROR : image not found,please check
+2024-02-14 17:20:39,253 - autostar.py [line:54] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 17:20:42,218 - autostar.py [line:54] - INFO : image found:Point(x=210, y=128)
+2024-02-14 17:20:48,355 - autostar.py [line:58] - ERROR : image not found,please check
+2024-02-14 17:20:51,740 - autostar.py [line:54] - INFO : image found:Point(x=1457, y=1412)
+2024-02-14 17:20:54,749 - autostar.py [line:54] - INFO : image found:Point(x=184, y=88)
+2024-02-14 17:21:01,210 - autostar.py [line:58] - ERROR : image not found,please check
