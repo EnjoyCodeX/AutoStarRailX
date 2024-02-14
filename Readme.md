@@ -4,7 +4,7 @@
 
 - 将云星穹铁道官网置于收藏夹中
 
-![1](.\MdPhoto\1.png)
+![1](https://github.com/EnjoyCodeX/AutoStarRailX/tree/main/MdPhoto/1.png)
 
 - 将Microsoft Edge固定在任务栏
 
