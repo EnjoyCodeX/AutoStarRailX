@@ -12,6 +12,8 @@ logging = "^0.4.9.6"
 configparser = "^6.0.0"
 pytesseract = "^0.3.10"
 opencv-python = "^4.9.0.80"
+selenium = "^4.17.2"
+webdriver-manager = "^4.0.1"
 
 
 [build-system]

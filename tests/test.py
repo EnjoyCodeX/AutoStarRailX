@@ -1,12 +1,13 @@
 # tesseract-ocr 图像识别文字 https://blog.csdn.net/woshiabc111/article/details/134739325
-# from PIL import Image
-# import pytesseract
-# tesseract_cmd = r'C:\AndrewT\GITHUB\tesseract-ocr\tesseract'
-# pytesseract.pytesseract.tesseract_cmd = tesseract_cmd
+from PIL import Image
+import pytesseract
+tesseract_cmd = r'C:\AndrewT\GITHUB\tesseract-ocr\tesseract'
+pytesseract.pytesseract.tesseract_cmd = tesseract_cmd
 
-# img = Image.open('./LocationPhoto/test/1.png')
-# print(pytesseract.image_to_string(img))
-
+img = Image.open('./test.png')
+img.show()
+reward = pytesseract.image_to_string(img)
+# print(int(reward))
 # import pyautogui
 # import time
 # pyautogui.useImageNotFoundException()
@@ -41,3 +42,6 @@
 # pyautogui.click(ScreenWidth/2, ScreenHeight/2,clicks=3,interval=1,button='left')
 # time.sleep(2)
 # IntoGuide()
+
+# import time
+# print(type(time.time()))
