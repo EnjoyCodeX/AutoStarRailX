@@ -128,20 +128,7 @@ def Loading():
             exit()
     Location = get_position('Load/3')
     click(Location,1,'left')
-"""
-配置文件 config
-1、模拟宇宙   
-2、拟造花萼(金)
-3、拟造花萼(赤)
-4、凝滞虚影
-5、侵蚀隧洞
-6、历战余响
-7、每日任务
-8、队伍配置
-9、纪行
-10、商城兑换
-11、邮箱
-"""
+
 # 进入指南
 def IntoGuide():
     pyautogui.press('esc')
@@ -157,23 +144,6 @@ def getReward():
 
 # 邮箱奖励
 
-# 模拟宇宙
-
-# 拟造花萼(金)
-
-# 拟造花萼(赤)
-
-# 凝滞虚影
-
-# 侵蚀隧洞
-
-# 历战余响
-
-
-# 战斗清体力
-def fight():
-    pass
-
 # 每日委托
 def delegate():
     pyautogui.press('esc')
@@ -186,13 +156,13 @@ def delegate():
     # 派遣
     returnHome()
     
-    
 
 # 完成使用支援角色并获取胜利
 def helpvictory():
     IntoGuide()
-    Location = Locate('Daily/3',GameConfidence)
-    click(Location,1,'left',2)
+    Location = Locate('Daily/3',GameConfidence,way=False)
+    if Location != None:
+        click(Location,1,'left',2)
     Location = Locate('Fight/1',GameConfidence)
     click(Location,1,'left',2)
     Location = Locate('Daily/4',GameConfidence)
@@ -210,6 +180,8 @@ def helpvictory():
 def dailyWork():
     delegate()
     helpvictory()
+    center = CenterBack()
+    click(center,1,'left',1)
     getdailyReward()
 
 # 获取每日奖励
@@ -250,8 +222,7 @@ def returnHome():
     time.sleep(1)
    
 if __name__ == '__main__' :
-    # Loading()
-    # getReward()
+    Loading()
+    getReward()
     # 先进行每日任务，待完成后再清体力
     dailyWork()
-    fight()

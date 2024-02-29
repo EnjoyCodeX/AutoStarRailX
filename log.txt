@@ -29,3 +29,74 @@
 2024-02-15 17:14:03,343 - autostar.py [line:61] - INFO : image found:Point(x=677, y=330)
 2024-02-15 17:16:52,617 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
 2024-02-15 17:16:55,257 - autostar.py [line:61] - INFO : image found:Point(x=677, y=330)
+2024-02-15 17:31:00,973 - autostar.py [line:61] - INFO : image found:Point(x=1453, y=1417)
+2024-02-15 17:31:03,750 - autostar.py [line:61] - INFO : image found:Point(x=82, y=135)
+2024-02-15 17:31:07,513 - autostar.py [line:61] - INFO : image found:Point(x=184, y=88)
+2024-02-15 17:31:13,341 - autostar.py [line:65] - ERROR : image not found,please check
+2024-02-15 17:31:23,521 - autostar.py [line:61] - INFO : image found:Point(x=1453, y=1417)
+2024-02-15 17:31:26,465 - autostar.py [line:61] - INFO : image found:Point(x=82, y=135)
+2024-02-15 17:31:30,460 - autostar.py [line:61] - INFO : image found:Point(x=184, y=88)
+2024-02-15 17:31:36,432 - autostar.py [line:61] - INFO : image found:Point(x=2069, y=934)
+2024-02-15 17:31:39,479 - autostar.py [line:107] - WARNING : The speed of wifi is poor
+2024-02-15 17:31:41,814 - autostar.py [line:117] - WARNING : please wait a while
+2024-02-15 17:32:01,821 - autostar.py [line:125] - INFO : Welcome to use autoplay again
+2024-02-15 17:32:02,733 - autostar.py [line:61] - INFO : image found:Point(x=1263, y=1306)
+2024-02-15 17:32:13,651 - autostar.py [line:61] - INFO : image found:Point(x=2199, y=523)
+2024-02-15 17:32:13,652 - autostar.py [line:152] - INFO : 正在进入每日委托
+2024-02-15 17:32:20,804 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
+2024-02-15 17:32:23,375 - autostar.py [line:65] - ERROR : image not found,please check
+2024-02-15 17:33:35,109 - autostar.py [line:61] - INFO : image found:Point(x=1453, y=1417)
+2024-02-15 17:33:37,607 - autostar.py [line:61] - INFO : image found:Point(x=82, y=135)
+2024-02-15 17:33:41,540 - autostar.py [line:61] - INFO : image found:Point(x=184, y=88)
+2024-02-15 17:33:47,945 - autostar.py [line:61] - INFO : image found:Point(x=2069, y=934)
+2024-02-15 17:33:51,368 - autostar.py [line:107] - WARNING : The speed of wifi is poor
+2024-02-15 17:33:53,814 - autostar.py [line:117] - WARNING : please wait a while
+2024-02-15 17:34:13,817 - autostar.py [line:125] - INFO : Welcome to use autoplay again
+2024-02-15 17:34:15,104 - autostar.py [line:61] - INFO : image found:Point(x=1263, y=1306)
+2024-02-15 17:34:26,290 - autostar.py [line:61] - INFO : image found:Point(x=2199, y=523)
+2024-02-15 17:34:26,290 - autostar.py [line:152] - INFO : 正在进入每日委托
+2024-02-15 17:34:33,691 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
+2024-02-15 17:34:39,142 - autostar.py [line:65] - ERROR : image not found,please check
+2024-02-15 17:35:47,456 - autostar.py [line:61] - INFO : image found:Point(x=1453, y=1417)
+2024-02-15 17:35:50,323 - autostar.py [line:61] - INFO : image found:Point(x=82, y=135)
+2024-02-15 17:35:54,176 - autostar.py [line:61] - INFO : image found:Point(x=184, y=88)
+2024-02-15 17:36:00,634 - autostar.py [line:61] - INFO : image found:Point(x=2069, y=934)
+2024-02-15 17:36:04,052 - autostar.py [line:107] - WARNING : The speed of wifi is poor
+2024-02-15 17:36:06,504 - autostar.py [line:117] - WARNING : please wait a while
+2024-02-15 17:36:26,512 - autostar.py [line:125] - INFO : Welcome to use autoplay again
+2024-02-15 17:36:27,735 - autostar.py [line:61] - INFO : image found:Point(x=1262, y=1307)
+2024-02-15 17:36:38,887 - autostar.py [line:61] - INFO : image found:Point(x=2199, y=523)
+2024-02-15 17:36:38,888 - autostar.py [line:152] - INFO : 正在进入每日委托
+2024-02-15 17:36:46,318 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
+2024-02-15 17:36:49,744 - autostar.py [line:61] - INFO : image found:Point(x=582, y=665)
+2024-02-15 17:36:52,433 - autostar.py [line:61] - INFO : image found:Point(x=1967, y=732)
+2024-02-15 17:36:58,617 - autostar.py [line:61] - INFO : image found:Point(x=2065, y=1266)
+2024-02-15 17:37:01,639 - autostar.py [line:61] - INFO : image found:Point(x=2232, y=972)
+2024-02-15 17:37:04,644 - autostar.py [line:61] - INFO : image found:Point(x=2151, y=1277)
+2024-02-15 17:37:07,705 - autostar.py [line:61] - INFO : image found:Point(x=2138, y=1267)
+2024-02-15 17:37:31,739 - autostar.py [line:61] - INFO : image found:Point(x=959, y=1230)
+2024-02-15 17:37:33,848 - autostar.py [line:177] - INFO : finish help dailywork
+2024-02-15 17:37:37,014 - autostar.py [line:65] - ERROR : image not found,please check
+2024-02-15 17:40:46,445 - autostar.py [line:61] - INFO : image found:Point(x=1454, y=1417)
+2024-02-15 17:40:49,396 - autostar.py [line:65] - ERROR : image not found,please check
+2024-02-15 17:40:52,653 - autostar.py [line:61] - INFO : image found:Point(x=1453, y=1417)
+2024-02-15 17:40:55,638 - autostar.py [line:61] - INFO : image found:Point(x=82, y=135)
+2024-02-15 17:40:59,631 - autostar.py [line:61] - INFO : image found:Point(x=184, y=88)
+2024-02-15 17:41:06,088 - autostar.py [line:61] - INFO : image found:Point(x=2069, y=934)
+2024-02-15 17:41:09,531 - autostar.py [line:107] - WARNING : The speed of wifi is poor
+2024-02-15 17:41:11,964 - autostar.py [line:117] - WARNING : please wait a while
+2024-02-15 17:41:31,978 - autostar.py [line:125] - INFO : Welcome to use autoplay again
+2024-02-15 17:41:33,234 - autostar.py [line:61] - INFO : image found:Point(x=1263, y=1306)
+2024-02-15 17:41:44,547 - autostar.py [line:61] - INFO : image found:Point(x=2199, y=523)
+2024-02-15 17:41:44,547 - autostar.py [line:152] - INFO : 正在进入每日委托
+2024-02-15 17:41:52,044 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
+2024-02-15 17:41:55,513 - autostar.py [line:61] - INFO : image found:Point(x=582, y=665)
+2024-02-15 17:41:58,210 - autostar.py [line:61] - INFO : image found:Point(x=1967, y=732)
+2024-02-15 17:42:04,412 - autostar.py [line:61] - INFO : image found:Point(x=2065, y=1266)
+2024-02-15 17:42:07,443 - autostar.py [line:61] - INFO : image found:Point(x=2232, y=972)
+2024-02-15 17:42:10,515 - autostar.py [line:61] - INFO : image found:Point(x=2151, y=1277)
+2024-02-15 17:42:13,584 - autostar.py [line:61] - INFO : image found:Point(x=2138, y=1267)
+2024-02-15 17:42:42,246 - autostar.py [line:61] - INFO : image found:Point(x=958, y=1230)
+2024-02-15 17:42:44,355 - autostar.py [line:177] - INFO : finish help dailywork
+2024-02-15 17:42:48,742 - autostar.py [line:61] - INFO : image found:Point(x=1730, y=994)
+2024-02-15 17:42:51,617 - autostar.py [line:61] - INFO : image found:Point(x=677, y=330)
